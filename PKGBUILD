@@ -1,5 +1,6 @@
-# Maintainer: @Konfekt at https://github.com/Konfekt/win-bash-xclip-xsel
-pkgname=win-bash-xclip-xsel
+# Maintainer: Anaïs Betts <support@arquivolta.dev>
+# Author: @Konfekt at https://github.com/Konfekt/win-bash-xclip-xsel
+pkgname=wsl-xclip-xsel
 _clonedname=win-bash-xclip-xsel
 pkgver=0.0.1
 pkgrel=1
