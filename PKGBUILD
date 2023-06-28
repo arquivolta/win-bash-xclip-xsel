@@ -11,7 +11,7 @@ license=('Unlicense')
 makedepends=('git')
 conflicts=(	'xclip'
 			'xsel')
-source=("git+https://github.com/Konfekt/${_clonedname}.git")
+source=("git+https://github.com/arquivolta/${_clonedname}.git")
 sha256sums=('SKIP')
 
 
