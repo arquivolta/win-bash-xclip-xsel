@@ -14,7 +14,8 @@ conflicts=(	'xclip'
 source=("git+https://github.com/arquivolta/${_clonedname}.git")
 sha256sums=('SKIP')
 
+
 package() {
-	install -Dm755 "${srcdir}/${_clonedname}/clip.sh" "${pkgdir}/bin/xclip"
-	install -Dm755 "${srcdir}/${_clonedname}/clip.sh" "${pkgdir}/bin/xsel"
+	install -Dm755 "${srcdir}/${_clonedname}/clip.sh" "${pkgdir}/usr/bin/xclip"
+	install -Dm755 "${srcdir}/${_clonedname}/clip.sh" "${pkgdir}/usr/bin/xsel"
 }
