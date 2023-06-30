@@ -3,7 +3,7 @@
 pkgname=wsl-xclip-xsel
 _clonedname=win-bash-xclip-xsel
 pkgver=0.0.1
-pkgrel=1
+pkgrel=2
 pkgdesc="WSL/Git-Bash binding to xclip and xsel"
 arch=('any')
 url="https://github.com/Konfekt/win-bash-xclip-xsel"
